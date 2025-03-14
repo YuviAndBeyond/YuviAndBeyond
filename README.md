@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m interested in Gravitational Wave Research
+- 🔭 I’m interested in Gravitational Wave Research:
   - Waveform Modelling
   - Numerical Relativity
   - Low-latency detections
   - Multi-messenger Astronomy
 - 🌱 I’m currently learning Machine Learning techniques (CNNs and Transformers)
-- 💬 My hobbies include
+- 💬 My hobbies include:
   - Night-sky Gazing
   - Astrophotography
   - Macrophotography
