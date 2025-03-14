@@ -1,5 +1,16 @@
 ### Hi there 👋
-
+- 🔭 I’m interested in Gravitational Wave Research
+- - Waveform Modelling
+  - Numerical Relativity
+  - Low-latency detections
+  - Multi-messenger Astronomy
+- 🌱 I’m currently learning Machine Learning techniques (CNNs and Transformers)
+- 💬 My hobbies include
+- - Night-sky Gazing
+  - Astrophotography
+  - Macrophotography
+  - Swimming
+  - Creating fun plots in Desmos
 <!--
 **YuviAndBeyond/YuviAndBeyond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
