@@ -1,12 +1,12 @@
 ### Hi there 👋
 - 🔭 I’m interested in Gravitational Wave Research
-- - Waveform Modelling
+  - Waveform Modelling
   - Numerical Relativity
   - Low-latency detections
   - Multi-messenger Astronomy
 - 🌱 I’m currently learning Machine Learning techniques (CNNs and Transformers)
 - 💬 My hobbies include
-- - Night-sky Gazing
+  - Night-sky Gazing
   - Astrophotography
   - Macrophotography
   - Swimming
